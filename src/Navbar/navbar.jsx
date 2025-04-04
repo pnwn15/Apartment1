@@ -10,7 +10,7 @@ function Navbar({ children }) {
     { name: "Dashboard", href: "/", icon: <DashboardOutlined /> },
     { name: "Kanban", href: "/Meter", icon: <DashboardOutlined /> },
     { name: "Inbox", href: "/Bill", icon: <InboxOutlined /> },
-    { name: "Notificate", href: "#", icon: <UserOutlined /> },
+    { name: "Notificate", href: "/Notificate", icon: <UserOutlined /> },
     { name: "Products", href: "#", icon: <AppstoreAddOutlined /> },
   ];
 
